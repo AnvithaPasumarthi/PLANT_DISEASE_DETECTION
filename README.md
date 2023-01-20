@@ -1,5 +1,6 @@
 INSTALLATION PROCEDURE:
 Step 1: Install Pytorch from any browser
+![web](https://user-images.githubusercontent.com/91653071/213634923-85471524-0b85-4454-8c10-36a2959e38da.gif)
 
 Step 2:- Install project requirements in the command line.
 
