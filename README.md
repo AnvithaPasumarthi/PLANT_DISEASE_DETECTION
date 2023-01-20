@@ -6,13 +6,13 @@ Step 1: Install Pytorch from any browser
 Step 2:- Install project requirements in the command line.
 
 REQUIREMENTS OF PROJECT:
-1.numpy.
-2.pandas.
-3.Flask.
-4.Pillow.
-5.gunicorn==20.0.4.
-6.torch==1.8.0.
-7.torchvision==0.9.0.
+1.numpy\n
+2.pandas
+3.Flask
+4.Pillow
+5.gunicorn==20.0.4
+6.torch==1.8.0
+7.torchvision==0.9.0
 
 
 PROCESS:
