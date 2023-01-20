@@ -12,6 +12,7 @@ REQUIREMENTS OF PROJECT:
 ●	gunicorn==20.0.4
 ●	torch==1.8.0
 ●	torchvision==0.9.0
+
 PROCESS:
 The process for building a model which can detect the disease associated with the leaf image. The key points to be followed are:
 1.	Data gathering
