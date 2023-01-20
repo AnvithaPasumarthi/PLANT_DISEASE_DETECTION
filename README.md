@@ -1,17 +1,19 @@
 INSTALLATION PROCEDURE:
+
 Step 1: Install Pytorch from any browser
 ![web](https://user-images.githubusercontent.com/91653071/213634923-85471524-0b85-4454-8c10-36a2959e38da.gif)
 
 Step 2:- Install project requirements in the command line.
 
 REQUIREMENTS OF PROJECT:
-1.numpy
-2.pandas
-3.Flask
-4.Pillow
-5.gunicorn==20.0.4
-6.torch==1.8.0
-7.torchvision==0.9.0
+1.numpy.
+2.pandas.
+3.Flask.
+4.Pillow.
+5.gunicorn==20.0.4.
+6.torch==1.8.0.
+7.torchvision==0.9.0.
+
 
 PROCESS:
 The process for building a model which can detect the disease associated with the leaf image. The key points to be followed are:
@@ -34,6 +36,7 @@ The model was tested on a total of 17572 images of 38 classes.
 The dataset contains:
 * 70295 training images
 * 17572 testing images
+
 
 Workflow:
 1. Loading the images from the folder resizing them into 128 * 128 (256 * 256 takes time for processing) and converting them to tensors 
